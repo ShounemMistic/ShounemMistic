@@ -1,10 +1,32 @@
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=524" >
-  </a>
-</div>
+<h1 align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="50">
+  <svg width="300" height="50">
+    <text x="50%" y="50%" fill="purple" font-size="20" font-family="Verdana" dy=".3em" text-anchor="middle">
+      <animate attributeName="y" from="100" to="25" dur="2s" fill="freeze" />
+      Welcome to My Profile!
+    </text>
+  </svg>
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="50">
+</h1>
 
-<img align="center" alt="" src="./src/header-gif.gif">
+<p align="center">
+  <img src="https://img.shields.io/badge/Player%20Level-99%2B-blue">
+  <img src="https://img.shields.io/badge/Language-Javascript%20%7C%20Python%20%7C%20C%23-blueviolet">
+  <img src="https://img.shields.io/badge/Quest-Open%20Source%20Contributions-brightgreen">
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="500">
+</p>
+
+<p align="center">
+  <a href="https://github.com/username?tab=repositories"><b>Explore My Repositories! 🎮</b></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=username&label=Profile%20views&color=0e75b6&style=flat" alt="username" /> 
+</p>
+
 
 #
 
