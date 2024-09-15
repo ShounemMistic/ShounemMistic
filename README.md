@@ -1,11 +1,6 @@
 <h1 align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="50">
-  <svg width="300" height="50">
-    <text x="50%" y="50%" fill="purple" font-size="20" font-family="Verdana" dy=".3em" text-anchor="middle">
-      <animate attributeName="y" from="100" to="25" dur="2s" fill="freeze" />
-      Welcome to My Profile!
-    </text>
-  </svg>
+  <span style="color: purple;">Welcome to My Profile!</span>
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="50">
 </h1>
 
@@ -26,6 +21,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=username&label=Profile%20views&color=0e75b6&style=flat" alt="username" /> 
 </p>
+
 
 
 #
