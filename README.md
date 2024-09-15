@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="50">
-  <span style="color: purple;">Welcome to My Profile!</span>
+  Welcome to My Profile!
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="50">
 </h1>
 
