@@ -72,3 +72,9 @@
 <h1 align="left"></h1>
 
 ###
+
+<img src="https://raw.githubusercontent.com/ShounemMistic/ShounemMistic/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
