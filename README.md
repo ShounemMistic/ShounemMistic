@@ -1,3 +1,7 @@
+<h1 align="left"></h1>
+
+###
+
 <h3 align="left">Estudante Universitário de Analise e Desenvolvimento de Sistemas em Aracaju. Tenho como principal foco o back-end, tanto para desenvolvimento web quanto para mobile. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.</h3>
 
 ###
@@ -27,6 +31,10 @@
 
 ###
 
+<h1 align="left"></h1>
+
+###
+
 <h1 align="center">Techs</h1>
 
 ###
@@ -45,6 +53,10 @@
 
 ###
 
+<h1 align="left"></h1>
+
+###
+
 <h1 align="center">Stats</h1>
 
 ###
@@ -54,5 +66,9 @@
   <img src="https://streak-stats.demolab.com?user=ShounemMistic&locale=pt-br&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShounemMistic&radius=16&theme=redical&area=true&order=5&custom_title=Grafico%20de%20Contribui%C3%A7%C3%A3o" height="300" alt="activity-graph graph"  />
 </div>
+
+###
+
+<h1 align="left"></h1>
 
 ###
