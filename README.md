@@ -1,3 +1,7 @@
+<h3 align="left">Estudante Universitário de Analise e Desenvolvimento de Sistemas em Aracaju. Tenho como principal foco o back-end, tanto para desenvolvimento web quanto para mobile. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.</h3>
+
+###
+
 <h1 align="center">Social Media</h1>
 
 ###
@@ -8,7 +12,7 @@
 
 ###
 
-<div align="right">
+<div align="center">
   <a href="https://www.linkedin.com/in/f%C3%A1bio-ant%C3%B4nio/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
