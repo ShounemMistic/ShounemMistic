@@ -35,7 +35,7 @@
 
 ###
 
-<h1 align="center">Techs</h1>
+<h1 align="center">Techs Development</h1>
 
 ###
 
@@ -57,7 +57,7 @@
 
 ###
 
-<h1 align="center">Stats</h1>
+<h1 align="center">GitHub Stats</h1>
 
 ###
 
