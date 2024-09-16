@@ -10,7 +10,7 @@
 
 ###
 
-<h1 align="center">Social Media</h1>
+<h1 align="center">Conect with me</h1>
 
 ###
 
